@@ -1,1 +1,3 @@
 Line 1 added to file b.txt
+Line 2 added to b.txt
+Line 3 added to b.txt
